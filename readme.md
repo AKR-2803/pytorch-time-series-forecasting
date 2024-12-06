@@ -1,8 +1,9 @@
 ## Time Series Forecasting using LSTM📈
 
-![Project Thumbnail](./images/thumbnail.png)
 
-This repository demonstrates time series forecasting using a Long Short-Term Memory (LSTM) model. The main objective is to predict future trajectories based on historical data.
+<img src="./images/thumbnail.png" alt="lstm_thumbnail"/>
+
+#### This repository demonstrates time series forecasting using a Long Short-Term Memory (LSTM) model. The main objective is to predict future trajectories based on historical data.
 
 ### 🛠 How to Set Up and Replicate
 
@@ -17,9 +18,9 @@ This repository demonstrates time series forecasting using a Long Short-Term Mem
    pip install -r requirements.txt
    ```
 
-3. **Dataset**: The dataset can also be downloaded from [here](https://drive.google.com/file/d/1yYLXskgFGxi2CSMynAEX6-peN2i0_YxQ/view?usp=sharing)
+3. **Dataset**: The dataset can be downloaded from [here](https://drive.google.com/file/d/1yYLXskgFGxi2CSMynAEX6-peN2i0_YxQ/view?usp=sharing)
 
-4. When trying to run this locally, replace this
+4. When trying to run `model.ipynb` locally, replace this
 ```python
 import os
 
@@ -53,6 +54,9 @@ The following output images display the results of the LSTM model's predictions 
 | 1 | 2 | 3 | 
 | ------------------ | ------------------ | ------------------ | 
 | <img src="./images/trajectory_0.png" alt="trajectory_0"/>  | <img src="./images/trajectory_1.png" alt="trajectory_1"/>  | <img src="./images/trajectory_2.png" alt="trajectory_2"/>  |
+
+#### Output trajectory for Row-1:
+<kbd>![Output_Row_1](./images/output_row_1.png)</kbd>
 
 
 ---
