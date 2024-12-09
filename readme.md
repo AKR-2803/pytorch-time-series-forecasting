@@ -9,8 +9,8 @@
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/AKR-203/LSTM-TimeSeries-Forecasting.git
-   cd LSTM-TimeSeries-Forecasting
+   git clone https://github.com/AKR-2803/pytorch-time-series-forecasting
+   cd pytorch-time-series-forecasting
    ```
 
 2. Install required dependencies: You can install all the necessary dependencies using the `requirements.txt` file:
